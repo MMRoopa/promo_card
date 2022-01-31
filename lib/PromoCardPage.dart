@@ -15,7 +15,7 @@ class _PromoCardPageState extends State<PromoCardPage> {
       body: Center(
         child: PromoCard(
           playHome: () {
-            print("Play home is selected.");
+            //  print("Play home is selected.");
           },
         ),
       ),
